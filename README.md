@@ -1,4 +1,4 @@
-# 🇧🇷 Português
+# BR Português
 
 ## Olá, eu sou a Silvana da Rocha Rodrigues 👋
 
