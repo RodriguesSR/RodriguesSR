@@ -16,7 +16,7 @@ Pesquisadora com atuação interdisciplinar nas áreas de tecnologia, arquitetur
 * **Realidade Virtual e Acessibilidade:** Tecnologias imersivas para valorização e inclusão no acesso ao patrimônio cultural.
 
 ### 🎓 Formação Acadêmica
-* **Doutorado em Ciências Computacionais e Modelagem Matemática** — UERJ  
+* **Doutoranda em Ciências Computacionais e Modelagem Matemática** — UERJ  
   *com período sanduíche na Sapienza Università di Roma*
 * **Mestrado em Ciências Computacionais** — UERJ
 * **Bacharelado em Arquitetura e Urbanismo** — UFRJ
